@@ -4,7 +4,7 @@
 
 This project documents a practical Security Operations Centre (SOC) investigation involving suspicious PowerShell activity on a Windows endpoint.
 
-The investigation was carried out using Microsoft Sentinel and Microsoft Defender to identify, analyse and investigate suspicious activity generated within the environment.
+The investigation was carried out using Microsoft Sentinel(as a Siem) and Microsoft Defender(as an EDR) to identify, analyse and investigate suspicious activity generated within the environment.
 
 ## Objective
 
