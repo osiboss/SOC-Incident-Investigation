@@ -20,7 +20,7 @@ The objective of this investigation was to:
 
 ## Tools Used
 
-- Microsoft Sentinel (SIEM)
+- Microsoft Sentinel (Siem)
 - Microsoft Defender(EDR)
 - Microsoft Azure Environment
 - Windows Endpoint
@@ -35,9 +35,9 @@ This project demonstrates the practical process of investigating a security aler
 
 ## Investigation Process
 
-1. Security incident Detection
+1. Security Incident Detection
 2. Incident Investigation
-3. Endpoint and Entity analysis
+3. Endpoint and Entity Analysis
 4. Vulnerability Review
 5. Key skills demonstrated
 6. Conclusion
