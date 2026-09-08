@@ -20,9 +20,9 @@ The objective of this investigation was to:
 
 ## Tools Used
 
-- Microsoft Sentinel
-- Microsoft Defender
-- Microsoft Azure
+- Microsoft Sentinel (SIEM)
+- Microsoft Defender(EDR)
+- Microsoft Azure Environment
 - Windows Endpoint
 
 ## Investigation Summary
