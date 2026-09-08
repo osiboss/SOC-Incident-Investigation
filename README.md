@@ -35,8 +35,8 @@ This project demonstrates the practical process of investigating a security aler
 
 ## Investigation Process
 
-1. Alert Detection
-2. Incident Review
+1. Security incident Detection
+2. Incident Investigation
 3. Endpoint and Entity analysis
 4. Vulnerability Review
 5. Key skills demonstrated
