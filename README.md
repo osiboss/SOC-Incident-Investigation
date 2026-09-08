@@ -37,11 +37,10 @@ This project demonstrates the practical process of investigating a security aler
 
 1. Alert Detection
 2. Incident Review
-3. Entity Investigation
-4. Process Analysis
-5. Endpoint Investigation
-6. Vulnerability Review
-7. Findings and Response
+3. Endpoint and Entity analysis
+4. Vulnerability Review
+5. Key skills demonstrated
+6. Conclusion
 
 ## Screenshots and Investigation Evidence
 
